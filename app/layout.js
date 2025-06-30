@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className="min-h-screen flex flex-col font-sans text-white bg-black min-h-screen flex flex-col">
         <TodoContext.Provider value={{ todos, setTodos }}>
-          {/* 🔼 Header with links */}
+          
           <header  className="bg-[#323740] px-4 py-2 font-extrabold text-3xl font-mono">Todoly - Todo List</header>
           <header className="bg-[#323740] px-4 py-2 m-0">
             <nav className="flex gap-8 ">
@@ -31,7 +31,6 @@ export default function RootLayout({ children }) {
           {/* Page content */}
           <main className=" flex-grow p-4 flex  mt-5">{children}</main> 
 
-          {/* 🔽 Footer */}
           {
           <footer className="bg-[#323740] text-white px-4 py-2 text-center text-sm text-gray-600 pt-2 font-mono">
             &copy; {new Date().getFullYear()} Todoly by Samarth Bhatia
