@@ -1,8 +1,8 @@
-# ✅ My TODO App
+#  Todoly - Todo App
 
 A beautifully minimal and responsive TODO application built with **Next.js**, **Tailwind CSS**, **JavaScript**, and **Heroicons**. Add, edit, view, and delete tasks with a slick interface — fully optimized for mobile and desktop.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks with a single click
 - Edit existing todos
@@ -13,7 +13,7 @@ A beautifully minimal and responsive TODO application built with **Next.js**, **
 - Icon support via Heroicons
 - Deployed live using Vercel
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -22,7 +22,7 @@ A beautifully minimal and responsive TODO application built with **Next.js**, **
 - **Hosting**: [Vercel](https://vercel.com/)
 - **Version Control**: Git + GitHub
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 my-todo-app/
