@@ -22,7 +22,7 @@ A beautifully minimal and responsive TODO application built with **Next.js**, **
 - **Hosting**: [Vercel](https://vercel.com/)
 - **Version Control**: Git + GitHub
 
-##  Folder Structure
+## Folder Structure
 
 ```bash
 my-todo-app/
@@ -37,4 +37,8 @@ my-todo-app/
 ├── layout.tsx
 ├── globals.css
 └── ...
+## To Run
+To run the website, download the app folder and paste it in the default NextJS folder structure offered by VSCode and run locally using 'npm run dev' command in the terminal.
+
+
 
